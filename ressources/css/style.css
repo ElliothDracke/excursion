@@ -1,0 +1,71 @@
+html {
+    overflow-y: scroll;
+    font-size: 22px;
+    background-color: black;
+    text-align: center;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+body h1 {
+    font-family: 'Verdana';
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+body p .cta {
+    font-family: 'Verdana';
+    font-size: 16px;
+    color: aquamarine;
+    text-align: center;
+}
+
+body p .cta a {
+    color: aquamarine;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+body p .cta a:link {
+    color: aquamarine;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+body p .cta a:visited {
+    color: aquamarine;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+body video {
+    display: block;
+    margin: 0 auto;
+}
+
+body h2 {   
+    font-family: 'Verdana';
+    font-size: 42px;
+    color: white;
+    text-align: center;
+    font-weight: 300;
+}
+
+body .content {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+}
+
+body .content p {
+    font-family: 'Verdana';
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
